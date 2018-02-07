@@ -20,3 +20,5 @@ Using HTML,
   
   
  Style up your webpage with css. Use classes, ids, whatever. Have fun with it. Make it look awful. It's very easy to do. 
+ 
+ Finally, add a javascript file using script tags and have console.log('farts') View it using the web console
