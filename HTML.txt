@@ -1,3 +1,9 @@
+You'll need to use npm for this. 
+step1: install http-server through npm.
+step2: read docs on http-server to get it to serve file
+step3: create index.html. http-server automatically serves that page by default
+step4: fire up localhost:8080 to see your work
+
 Create an HTML page, served using http-server. 
 
 Using HTML, create a table that contains:
