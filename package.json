@@ -1,0 +1,24 @@
+{
+  "name": "Basix",
+  "version": "1.0.0",
+  "description": "Basically, just some basics. If this was baseball, it'd be first base. But that's based on basically little, becuase basix isn't  based on anything, except maybe based on a lack of basing.",
+  "main": "animal.js",
+  "scripts": {
+    "test": "mocha --reporter progress *Test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmfabich/Basix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmfabich/Basix/issues"
+  },
+  "homepage": "https://github.com/rmfabich/Basix#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  }
+}
